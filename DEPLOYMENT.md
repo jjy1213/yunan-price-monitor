@@ -1,7 +1,9 @@
-# 云南旅行报价监控 · GitHub Pages
+# 云南行程 · GitHub Pages
 
-Static publication of the verified Google Maps frontend, sourced hotel photos and exported current quote snapshot. No credentials or private Site source are included.
+静态页面在 docs/，包含已验证的 Google Maps、18 家集团酒店、36 张来源照片和当前报价快照。原 README 保留不变。
 
-The Pages host cannot execute the original Cloudflare Worker/R2 API. Source editing and unattended collection remain at the original private monitor: https://yunnan-family-price-watch.bluebforever.chatgpt.site . The visible banner identifies this publication as a snapshot, with links to the complete monitor. Export a fresh normalized snapshot into site/snapshot.json and push to main to republish.
+发布设置：Settings → Pages → Build and deployment → Deploy from a branch → main /docs → Save。
 
-Deploy with GitHub Actions using .github/workflows/pages.yml. Enable Pages with build type workflow. Static files use relative paths for project Pages hosting.
+当前仓库是 private，私有仓库 Pages 需要支持该功能的 GitHub 付费计划；若账户不支持，可自行选择升级或改为 public。不要在代码中加入任何访问令牌。
+
+报价为导出快照，完整监控及来源保存仍在 https://yunnan-family-price-watch.bluebforever.chatgpt.site 。更新 docs/snapshot.json 后提交可重新发布。
