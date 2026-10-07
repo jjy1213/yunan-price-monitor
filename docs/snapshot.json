@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T07:11:21.085Z",
+  "updatedAt": "2026-10-07T23:06:28.654Z",
   "monitors": [
     {
       "id": "outbound",
@@ -8,16 +8,24 @@
       "date": "2027-01-23",
       "baseline": 6800,
       "unit": "成人单人起价",
-      "price": 1150,
-      "note": "春秋航空 · 12:55–18:00 · 浦东出发，经停黔江。未核实税费、行李及5人余票。",
+      "price": 1290,
+      "note": "2027-01-23公开起价¥1290；可见12:25–17:50经停常德、12:55–18:00经停黔江。未核4大1小余票、税费、行李及退改。",
       "url": "https://flights.ctrip.com/online/list/oneway-sha-kmg?depdate=2027-01-23",
-      "checkedAt": "2026-10-06T06:45:59.818508+00:00",
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "comparable": false,
       "history": [
         {
           "at": "2026-10-06T06:45:59.818508+00:00",
           "price": 1150,
           "unit": "成人单人起价"
+        },
+        {
+          "at": "2026-10-07T23:06:28.654Z",
+          "price": 1290,
+          "unit": "成人单人起价",
+          "evidence": "上海昆明｜01月23日周六｜12:25…经停常德…17:50…¥1290起｜12:55…经停黔江…18:00…¥1290起",
+          "comparable": false,
+          "sourceUrl": "https://flights.ctrip.com/online/list/oneway-sha-kmg?depdate=2027-01-23"
         }
       ],
       "offers": [
@@ -26,21 +34,42 @@
           "platform": "携程",
           "sourceUrl": "https://flights.ctrip.com/online/list/oneway-sha-kmg?depdate=2027-01-23",
           "entryUrl": null,
-          "price": 1150,
+          "price": 1290,
           "unit": "成人单人起价",
           "comparable": false,
-          "checkedAt": "2026-10-06T06:45:59.818508+00:00",
-          "note": "春秋航空 · 12:55–18:00 · 浦东出发，经停黔江。未核实税费、行李及5人余票。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "2027-01-23公开起价¥1290；可见12:25–17:50经停常德、12:55–18:00经停黔江。未核4大1小余票、税费、行李及退改。",
           "history": [
             {
               "at": "2026-10-06T06:45:59.818508+00:00",
               "price": 1150,
               "unit": "成人单人起价"
+            },
+            {
+              "at": "2026-10-07T23:06:28.654Z",
+              "price": 1290,
+              "unit": "成人单人起价",
+              "evidence": "上海昆明｜01月23日周六｜12:25…经停常德…17:50…¥1290起｜12:55…经停黔江…18:00…¥1290起",
+              "comparable": false,
+              "sourceUrl": "https://flights.ctrip.com/online/list/oneway-sha-kmg?depdate=2027-01-23"
             }
           ],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "成人经济舱公开起价；家庭含税总价、儿童票、5人余票、行李和退改待核。",
           "status": "参考报价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": true,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          },
+          "evidence": "上海昆明｜01月23日周六｜12:25…经停常德…17:50…¥1290起｜12:55…经停黔江…18:00…¥1290起"
         },
         {
           "id": "outbound--飞猪",
@@ -143,15 +172,23 @@
       "baseline": 4700,
       "unit": "成人单人起价",
       "price": 460,
-      "note": "春秋航空 · 20:15–23:40 · 抵达浦东。未核实税费、行李及5人余票。",
+      "note": "2027-01-27丽江→上海仍显示¥460起；最低价对应的完整起降时刻未在同一公开摘录中绑定。未核4大1小余票、税费、行李及退改。",
       "url": "https://flights.ctrip.com/online/list/oneway-ljg-sha?depdate=2027-01-27",
-      "checkedAt": "2026-10-06T06:45:59.818508+00:00",
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "comparable": false,
       "history": [
         {
           "at": "2026-10-06T06:45:59.818508+00:00",
           "price": 460,
           "unit": "成人单人起价"
+        },
+        {
+          "at": "2026-10-07T23:06:28.654Z",
+          "price": 460,
+          "unit": "成人单人起价",
+          "evidence": "丽江上海｜01月27日周三｜¥460起｜春秋航空",
+          "comparable": false,
+          "sourceUrl": "https://flights.ctrip.com/online/list/oneway-ljg-sha?depdate=2027-01-27"
         }
       ],
       "offers": [
@@ -163,18 +200,39 @@
           "price": 460,
           "unit": "成人单人起价",
           "comparable": false,
-          "checkedAt": "2026-10-06T06:45:59.818508+00:00",
-          "note": "春秋航空 · 20:15–23:40 · 抵达浦东。未核实税费、行李及5人余票。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "2027-01-27丽江→上海仍显示¥460起；最低价对应的完整起降时刻未在同一公开摘录中绑定。未核4大1小余票、税费、行李及退改。",
           "history": [
             {
               "at": "2026-10-06T06:45:59.818508+00:00",
               "price": 460,
               "unit": "成人单人起价"
+            },
+            {
+              "at": "2026-10-07T23:06:28.654Z",
+              "price": 460,
+              "unit": "成人单人起价",
+              "evidence": "丽江上海｜01月27日周三｜¥460起｜春秋航空",
+              "comparable": false,
+              "sourceUrl": "https://flights.ctrip.com/online/list/oneway-ljg-sha?depdate=2027-01-27"
             }
           ],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "成人经济舱公开起价；具体航班、家庭含税总价、儿童票、5人余票、行李和退改待核。",
           "status": "参考报价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          },
+          "evidence": "丽江上海｜01月27日周三｜¥460起｜春秋航空"
         },
         {
           "id": "return--飞猪",
@@ -278,9 +336,9 @@
       "baseline": 800,
       "unit": "2间 / 1晚 总价",
       "price": null,
-      "note": "高级双床房 × 2间。公开页未保留指定日期，并要求登录看价；暂无可比报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-23至01-24、4大1小、高级双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "url": "https://m.ctrip.com/html5/hotel/hoteldetail/132018785.html",
-      "checkedAt": "2026-10-06T06:45:59.818508+00:00",
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "comparable": false,
       "history": [],
       "offers": [
@@ -292,12 +350,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": "2026-10-06T06:45:59.818508+00:00",
-          "note": "高级双床房 × 2间。公开页未保留指定日期，并要求登录看价；暂无可比报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-23至01-24、4大1小、高级双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-23至01-24、高级双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "kunming--飞猪",
@@ -432,9 +502,9 @@
       "baseline": 3100,
       "unit": "2间 / 1晚 总价",
       "price": null,
-      "note": "行政双床房 × 2间。公开页未保留指定日期，并要求登录看价；暂无可比报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-24至01-25、4大1小、行政双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "url": "https://m.ctrip.com/html5/hotel/hoteldetail/81471704.html",
-      "checkedAt": "2026-10-06T06:45:59.818508+00:00",
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "comparable": false,
       "history": [],
       "offers": [
@@ -446,12 +516,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": "2026-10-06T06:45:59.818508+00:00",
-          "note": "行政双床房 × 2间。公开页未保留指定日期，并要求登录看价；暂无可比报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-24至01-25、4大1小、行政双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-24至01-25、行政双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "dali1--飞猪",
@@ -586,9 +668,9 @@
       "baseline": 3100,
       "unit": "2间 / 1晚 总价",
       "price": null,
-      "note": "行政双床房 × 2间。公开页未保留指定日期，并要求登录看价；暂无可比报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-25至01-26、4大1小、行政双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "url": "https://m.ctrip.com/html5/hotel/hoteldetail/81471704.html",
-      "checkedAt": "2026-10-06T06:45:59.818508+00:00",
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "comparable": false,
       "history": [],
       "offers": [
@@ -600,12 +682,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": "2026-10-06T06:45:59.818508+00:00",
-          "note": "行政双床房 × 2间。公开页未保留指定日期，并要求登录看价；暂无可比报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-25至01-26、4大1小、行政双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-25至01-26、行政双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "dali2--飞猪",
@@ -740,9 +834,9 @@
       "baseline": 3100,
       "unit": "2间 / 1晚 总价",
       "price": null,
-      "note": "雪山景观双床房 × 2间。公开页未保留指定日期，并要求登录看价；暂无可比报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-26至01-27、4大1小、雪山景观双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "url": "https://m.ctrip.com/html5/hotel/hoteldetail/1233747.html",
-      "checkedAt": "2026-10-06T06:45:59.818508+00:00",
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "comparable": false,
       "history": [],
       "offers": [
@@ -754,12 +848,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": "2026-10-06T06:45:59.818508+00:00",
-          "note": "雪山景观双床房 × 2间。公开页未保留指定日期，并要求登录看价；暂无可比报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-26至01-27、4大1小、雪山景观双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-26至01-27、雪山景观双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "lijiang--飞猪",
@@ -905,9 +1011,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-23至01-24、4大1小、双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "offers": [
         {
           "id": "km-grandhyatt--kunming--携程",
@@ -917,12 +1023,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-23至01-24、4大1小、双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-23至01-24、双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "km-grandhyatt--kunming--飞猪",
@@ -1061,9 +1179,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-23至01-24、4大1小、双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "offers": [
         {
           "id": "km-ic--kunming--携程",
@@ -1073,12 +1191,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-23至01-24、4大1小、双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-23至01-24、双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "km-ic--kunming--飞猪",
@@ -1217,9 +1347,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-23至01-24、4大1小、双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "offers": [
         {
           "id": "km-sofitel--kunming--携程",
@@ -1229,12 +1359,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-23至01-24、4大1小、双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-23至01-24、双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "km-sofitel--kunming--飞猪",
@@ -1373,9 +1515,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-23至01-24、4大1小、双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "offers": [
         {
           "id": "km-wanda--kunming--携程",
@@ -1385,12 +1527,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-23至01-24、4大1小、双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-23至01-24、双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "km-wanda--kunming--飞猪",
@@ -1529,9 +1683,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-24至01-25、4大1小、海景双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "offers": [
         {
           "id": "dali-indigo--dali1--携程",
@@ -1541,12 +1695,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-24至01-25、4大1小、海景双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-24至01-25、海景双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "dali-indigo--dali1--飞猪",
@@ -1685,9 +1851,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-25至01-26、4大1小、海景双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "offers": [
         {
           "id": "dali-indigo--dali2--携程",
@@ -1697,12 +1863,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-25至01-26、4大1小、海景双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-25至01-26、海景双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "dali-indigo--dali2--飞猪",
@@ -1841,9 +2019,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-26至01-27、4大1小、房内雪山双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "offers": [
         {
           "id": "lj-banyan--lijiang--携程",
@@ -1853,12 +2031,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-26至01-27、4大1小、房内雪山双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-26至01-27、房内雪山双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "lj-banyan--lijiang--飞猪",
@@ -1997,9 +2187,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": "2026-10-06T07:11:21.085Z",
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "公开房型页已核实璞修雪山双床套房（2张1.2米单人床）；2027-01-26两间一晚报价及余量仍待核实。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-26至01-27、4大1小、璞修雪山双床套房×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "offers": [
         {
           "id": "lj-puxiu--lijiang--携程",
@@ -2009,12 +2199,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": "2026-10-06T07:11:21.085Z",
-          "note": "公开房型页已核实璞修雪山双床套房（2张1.2米单人床）；2027-01-26两间一晚报价及余量仍待核实。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-26至01-27、4大1小、璞修雪山双床套房×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "4成人1儿童，两间雪山双床套房；每房至多含2人进山费，儿童按年龄身高另核实。需先办进山证，核实1/27机场接送。",
+          "conditions": "目标2027-01-26至01-27、璞修雪山双床套房×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "lj-puxiu--lijiang--飞猪",
@@ -2153,9 +2355,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-26至01-27、4大1小、房内雪山双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "offers": [
         {
           "id": "lj-pullman--lijiang--携程",
@@ -2165,12 +2367,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-26至01-27、4大1小、房内雪山双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-26至01-27、房内雪山双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "lj-pullman--lijiang--飞猪",
@@ -2309,9 +2523,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-26至01-27、4大1小、房内雪山双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "offers": [
         {
           "id": "lj-hilton--lijiang--携程",
@@ -2321,12 +2535,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-26至01-27、4大1小、房内雪山双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-26至01-27、房内雪山双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "lj-hilton--lijiang--飞猪",
@@ -2465,9 +2691,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-26至01-27、4大1小、房内雪山双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "offers": [
         {
           "id": "lj-ic--lijiang--携程",
@@ -2477,12 +2703,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-26至01-27、4大1小、房内雪山双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-26至01-27、房内雪山双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "lj-ic--lijiang--飞猪",
@@ -2621,9 +2859,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-23至01-24、4大1小、双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "group": "万豪",
       "brand": "Sheraton",
       "groupSourceUrl": "https://www.marriott.com.cn/hotels/kmgsk-sheraton-kunming/overview/",
@@ -2658,12 +2896,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-23至01-24、4大1小、双床×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-23至01-24、双床×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "km-sheraton--kunming--飞猪",
@@ -2777,9 +3027,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-24至01-25、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "group": "希尔顿",
       "brand": "Hilton Hotels & Resorts",
       "groupSourceUrl": "https://www.hilton.com/zh-hans/hotels/dlugthi-hilton-dali-resort-and-spa/",
@@ -2814,12 +3064,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-24至01-25、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-24至01-25、双床（景观待核）×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "dali-hilton--dali1--飞猪",
@@ -2933,9 +3195,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-25至01-26、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "group": "希尔顿",
       "brand": "Hilton Hotels & Resorts",
       "groupSourceUrl": "https://www.hilton.com/zh-hans/hotels/dlugthi-hilton-dali-resort-and-spa/",
@@ -2970,12 +3232,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-25至01-26、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-25至01-26、双床（景观待核）×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "dali-hilton--dali2--飞猪",
@@ -3089,9 +3363,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-24至01-25、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "group": "万豪",
       "brand": "EDITION",
       "groupSourceUrl": "https://www.marriott.com.cn/hotels/dlueb-the-dali-edition/overview/",
@@ -3126,12 +3400,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-24至01-25、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-24至01-25、双床（景观待核）×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "dali-edition--dali1--飞猪",
@@ -3245,9 +3531,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-25至01-26、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "group": "万豪",
       "brand": "EDITION",
       "groupSourceUrl": "https://www.marriott.com.cn/hotels/dlueb-the-dali-edition/overview/",
@@ -3282,12 +3568,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-25至01-26、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-25至01-26、双床（景观待核）×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "dali-edition--dali2--飞猪",
@@ -3401,9 +3699,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-24至01-25、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "group": "希尔顿",
       "brand": "Hilton Garden Inn",
       "groupSourceUrl": "https://www.hilton.com/zh-hans/hotels/dluacgi-hilton-garden-inn-dali-ancient-city/",
@@ -3438,12 +3736,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-24至01-25、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-24至01-25、双床（景观待核）×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "dali-garden--dali1--飞猪",
@@ -3557,9 +3867,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-25至01-26、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "group": "希尔顿",
       "brand": "Hilton Garden Inn",
       "groupSourceUrl": "https://www.hilton.com/zh-hans/hotels/dluacgi-hilton-garden-inn-dali-ancient-city/",
@@ -3594,12 +3904,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-25至01-26、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-25至01-26、双床（景观待核）×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "dali-garden--dali2--飞猪",
@@ -3713,9 +4035,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-24至01-25、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "group": "温德姆",
       "brand": "Hawthorn by Wyndham",
       "groupSourceUrl": "https://www.wyndhamhotels.com/zh-cn/hawthorn-extended-stay/dali-china/hawthorn-dali-erhai-park/overview",
@@ -3750,12 +4072,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-24至01-25、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-24至01-25、双床（景观待核）×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "dali-wyndham--dali1--飞猪",
@@ -3869,9 +4203,9 @@
       "price": null,
       "unit": "2间 / 1晚 总价",
       "comparable": false,
-      "checkedAt": null,
+      "checkedAt": "2026-10-07T23:06:28.654Z",
       "history": [],
-      "note": "新纳入监控，尚未核实指定日期房型报价。",
+      "note": "已实时读取携程页；未得到同时绑定2027-01-25至01-26、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
       "group": "温德姆",
       "brand": "Hawthorn by Wyndham",
       "groupSourceUrl": "https://www.wyndhamhotels.com/zh-cn/hawthorn-extended-stay/dali-china/hawthorn-dali-erhai-park/overview",
@@ -3906,12 +4240,24 @@
           "price": null,
           "unit": "2间 / 1晚 总价",
           "comparable": false,
-          "checkedAt": null,
-          "note": "新纳入监控，尚未核实指定日期房型报价。",
+          "checkedAt": "2026-10-07T23:06:28.654Z",
+          "note": "已实时读取携程页；未得到同时绑定2027-01-25至01-26、4大1小、双床（景观待核）×2间、含税总价、库存及退改截止的公开报价。其他日期/房型/宣传价未采用。",
           "history": [],
-          "conditions": "税费、行李或房型以付款页为准",
+          "conditions": "目标2027-01-25至01-26、双床（景观待核）×2间；儿童、税费、库存、取消截止和附加价待核。",
           "status": "待核价",
-          "seller": null
+          "seller": "携程",
+          "verification": {
+            "partyConfirmed": false,
+            "taxesConfirmed": false,
+            "inventoryConfirmed": false,
+            "baggageConfirmed": false,
+            "timingConfirmed": false,
+            "agentQualified": false,
+            "refundConfirmed": false,
+            "freeCancellation": false,
+            "twinConfirmed": false,
+            "viewConfirmed": false
+          }
         },
         {
           "id": "dali-wyndham--dali2--飞猪",
@@ -4007,7 +4353,7 @@
     }
   ],
   "scheduleStatus": "未设置",
-  "scheduleText": "已启用 · 每天北京时间07:00检查；已恢复任务，尚未完成恢复后的价格检查。GitHub Pages每轮检查后同步，成功与否另行核验。",
+  "scheduleText": "已启用 · 每天北京时间07:00检查；2026-10-08最近运行成功读取23个公开来源（2条指定日期航班、18家集团酒店携程页、3个代理/旗舰店商品页）。有效价格2项，均为成人单人起价且不可比；新增同口径可比报价0项。酒店公开页未完整显示目标日期两间双床含税总价、库存与退改；飞猪/驴妈妈/闲鱼等搜索未发现可直接核验的目标日期商品。",
   "baseline": {
     "title": "云南5天4晚家庭行程",
     "travelers": {
@@ -4372,8 +4718,8 @@
     "childHeightCm": 150
   },
   "concierge": {
-    "day": "2026-10-07",
-    "generatedAt": "2026-10-07T08:29:51.595Z",
+    "day": "2026-10-08",
+    "generatedAt": "2026-10-07T23:10:42.292Z",
     "plans": [
       {
         "name": "稳健省心",
@@ -4590,6 +4936,224 @@
     ]
   },
   "conciergeHistory": [
+    {
+      "day": "2026-10-08",
+      "generatedAt": "2026-10-07T23:10:42.292Z",
+      "plans": [
+        {
+          "name": "稳健省心",
+          "subtitle": "完整同口径报价中优先免费取消，兼顾总价",
+          "lines": [
+            {
+              "groupKey": "outbound",
+              "name": "上海 → 昆明",
+              "price": null,
+              "baseline": 6800
+            },
+            {
+              "groupKey": "return",
+              "name": "丽江 → 上海",
+              "price": null,
+              "baseline": 4700
+            },
+            {
+              "groupKey": "kunming",
+              "name": "昆明南屏街希尔顿欢朋",
+              "price": null,
+              "baseline": 800
+            },
+            {
+              "groupKey": "dali1",
+              "name": "大理俊发铂尔曼",
+              "price": null,
+              "baseline": 3100
+            },
+            {
+              "groupKey": "dali2",
+              "name": "大理俊发铂尔曼",
+              "price": null,
+              "baseline": 3100
+            },
+            {
+              "groupKey": "lijiang",
+              "name": "丽江金茂隐逸 · 凯悦臻选",
+              "price": null,
+              "baseline": 3100
+            }
+          ],
+          "verifiedSubtotal": 0,
+          "pricedGroups": 0,
+          "flightHotelTotal": null,
+          "total": null,
+          "budgetReference": 24835,
+          "otherBudget": 3235,
+          "issues": [
+            "outbound：缺少24小时内同口径有效报价",
+            "return：缺少24小时内同口径有效报价",
+            "kunming：缺少24小时内同口径有效报价",
+            "dali1：缺少24小时内同口径有效报价",
+            "dali2：缺少24小时内同口径有效报价",
+            "lijiang：缺少24小时内同口径有效报价",
+            "原文件五座包车无法容纳5位乘客加司机，需改至少6座并核价",
+            "其他交通、餐食和门票¥3,235来自原预算，需复核儿童票、车辆与实付费用"
+          ],
+          "ready": false,
+          "bookingAdvice": "今日暂不按套餐总价付款。先补齐两段全家含税机票和四晚双床报价，优先核实大理连住与丽江景观房库存。",
+          "priceChanges": []
+        },
+        {
+          "name": "高端景观",
+          "subtitle": "优先核实洱海与雪山景观房，房型不满足时明确待确认",
+          "lines": [
+            {
+              "groupKey": "outbound",
+              "name": "上海 → 昆明",
+              "price": null,
+              "baseline": 6800
+            },
+            {
+              "groupKey": "return",
+              "name": "丽江 → 上海",
+              "price": null,
+              "baseline": 4700
+            },
+            {
+              "groupKey": "kunming",
+              "name": "昆明洲际酒店",
+              "price": null,
+              "baseline": 800
+            },
+            {
+              "groupKey": "dali1",
+              "name": "大理洱海天域英迪格酒店",
+              "price": null,
+              "baseline": 3100
+            },
+            {
+              "groupKey": "dali2",
+              "name": "大理洱海天域英迪格酒店",
+              "price": null,
+              "baseline": 3100
+            },
+            {
+              "groupKey": "lijiang",
+              "name": "丽江金茂璞修万豪Design Hotels雪山酒店",
+              "price": null,
+              "baseline": 3100
+            }
+          ],
+          "verifiedSubtotal": 0,
+          "pricedGroups": 0,
+          "flightHotelTotal": null,
+          "total": null,
+          "budgetReference": 24835,
+          "otherBudget": 3235,
+          "issues": [
+            "outbound：缺少24小时内同口径有效报价",
+            "return：缺少24小时内同口径有效报价",
+            "kunming：缺少24小时内同口径有效报价",
+            "dali1：缺少24小时内同口径有效报价",
+            "dali2：缺少24小时内同口径有效报价",
+            "lijiang：缺少24小时内同口径有效报价",
+            "原文件五座包车无法容纳5位乘客加司机，需改至少6座并核价",
+            "其他交通、餐食和门票¥3,235来自原预算，需复核儿童票、车辆与实付费用"
+          ],
+          "ready": false,
+          "bookingAdvice": "今日暂不按套餐总价付款。先补齐两段全家含税机票和四晚双床报价，优先核实大理连住与丽江景观房库存。",
+          "priceChanges": []
+        },
+        {
+          "name": "价格优先",
+          "subtitle": "只比较当天有效全家总价，大理保持同店两晚",
+          "lines": [
+            {
+              "groupKey": "outbound",
+              "name": "上海 → 昆明",
+              "price": null,
+              "baseline": 6800
+            },
+            {
+              "groupKey": "return",
+              "name": "丽江 → 上海",
+              "price": null,
+              "baseline": 4700
+            },
+            {
+              "groupKey": "kunming",
+              "name": "昆明索菲特大酒店",
+              "price": null,
+              "baseline": 800
+            },
+            {
+              "groupKey": "dali1",
+              "name": "大理俊发铂尔曼",
+              "price": null,
+              "baseline": 3100
+            },
+            {
+              "groupKey": "dali2",
+              "name": "大理俊发铂尔曼",
+              "price": null,
+              "baseline": 3100
+            },
+            {
+              "groupKey": "lijiang",
+              "name": "丽江雅高铂尔曼度假酒店",
+              "price": null,
+              "baseline": 3100
+            }
+          ],
+          "verifiedSubtotal": 0,
+          "pricedGroups": 0,
+          "flightHotelTotal": null,
+          "total": null,
+          "budgetReference": 24835,
+          "otherBudget": 3235,
+          "issues": [
+            "outbound：缺少24小时内同口径有效报价",
+            "return：缺少24小时内同口径有效报价",
+            "kunming：缺少24小时内同口径有效报价",
+            "dali1：缺少24小时内同口径有效报价",
+            "dali2：缺少24小时内同口径有效报价",
+            "lijiang：缺少24小时内同口径有效报价",
+            "原文件五座包车无法容纳5位乘客加司机，需改至少6座并核价",
+            "其他交通、餐食和门票¥3,235来自原预算，需复核儿童票、车辆与实付费用"
+          ],
+          "ready": false,
+          "bookingAdvice": "今日暂不按套餐总价付款。先补齐两段全家含税机票和四晚双床报价，优先核实大理连住与丽江景观房库存。",
+          "priceChanges": []
+        }
+      ],
+      "recommendation": "先完成真实性与可执行性核验，当前三套均为待确认方案。预算参考使用原文件缺项额度，不等于市场成交价。",
+      "bookingRules": [
+        "当天有效、4大1小含税、两间双床、库存与退改均确认后，预算内的可免费取消酒店可当日锁房；记录取消截止时间。",
+        "两段机票须先核实儿童票、行李额及完整航班时间；总价不超过原机票预算¥11,500时可考虑当天预订，不能以成人起价推算。",
+        "大理两晚同酒店一起确认；雪山景观必须落实到所订双床房。璞修另核进山手续、儿童门票和回机场时间。",
+        "同商品历史价格只用于比较涨跌；无法预测最低价，不用历史促销或缺失报价催促付款。"
+      ],
+      "itinerary": [
+        [
+          "1/23",
+          "上海飞昆明，入住昆明；按落地时间安排晚餐和老街"
+        ],
+        [
+          "1/24",
+          "昆明到大理，入住洱海附近酒店；抵达后安排轻量游览"
+        ],
+        [
+          "1/25",
+          "大理同店连住，环洱海；核实至少6座车辆及儿童座椅"
+        ],
+        [
+          "1/26",
+          "大理到丽江，入住景观酒店；避免跨城当天再赶雪山"
+        ],
+        [
+          "1/27",
+          "丽江飞上海；航班未确认前不承诺同日雪山游，优先保证返程"
+        ]
+      ]
+    },
     {
       "day": "2026-10-06",
       "generatedAt": "2026-10-06T08:05:28.000Z",
@@ -4814,33 +5378,33 @@
       "key": "qiqi",
       "seller": "齐齐爱住店",
       "url": "https://www.taobao.com/list/item/818425596261.htm",
-      "scope": "全国酒店代订；具体三城酒店覆盖待核",
-      "status": "有购后记录 · 履约风险，排除推荐",
-      "count": "页面元数据：2条购后评论（搜索摘要曾为4条，以本次页面为准）",
+      "scope": "全国酒店代订；三城覆盖待核",
+      "status": "实质购后差评风险仍在 · 排除推荐",
+      "count": "本次计数提取异常，不覆盖历史2条计数",
       "reviewDate": "2026-09-06 13:32",
-      "review": "挺不错的，确实省了点钱～…预订使用的名字非本人姓名，而且是外国人的名字，可能前台看完身份证会说查无此人。",
-      "risk": "实名订单与入住人不一致风险；不可凭100%好评率推荐",
-      "checkedAt": "2026-10-06T07:51:30.804Z",
-      "evidence": "欢迎来到淘宝Taobao/天猫Tmall 齐齐爱住店，选购全国香格里拉/希尔顿...，好评率100%，2用户购后写下真实评论。快来查看更多买家秀和测评，让你放心淘到宝！",
-      "evidenceLevel": "平台公开购后评价；无法独立查验买家订单/支付凭证",
+      "review": "买家称预订姓名非本人且为外国姓名，前台可能查无此人。",
+      "risk": "实名不一致；卖家主体资质、支付与正规实名履约未核。",
+      "checkedAt": "2026-10-07T23:06:28.654Z",
+      "evidence": "同商品公开购后评价出现非本人/外国姓名及查无此人的具体描述。",
+      "evidenceLevel": "平台公开同商品购后评价；未独立验证支付、订单和履约",
       "eligible": false,
       "transactionVerified": false,
-      "substantiveReviewVerified": false,
+      "substantiveReviewVerified": true,
       "fulfillmentVerified": false
     },
     {
       "key": "puxiu-agent",
       "seller": "轻奢全球高端酒店",
       "url": "https://www.taobao.com/list/item/NHI0NmNGV2dqZFh6MGtITFBsQzBIUT09.htm",
-      "scope": "丽江金茂璞修雪山酒店代订",
-      "status": "购后计数可见 · 实质评价不足",
-      "count": "页面元数据：3条购后评论，好评率100%",
+      "scope": "丽江金茂璞修代订",
+      "status": "默认好评 · 履约证据不足",
+      "count": "保留历史3条计数",
       "reviewDate": "2026-04-11 09:33",
-      "review": "该用户未及时主动评价，系统默认好评",
-      "risk": "只读到默认好评，不能证明真实入住体验；目标日期、两间双床、儿童、退款和资质未核",
-      "checkedAt": "2026-10-06T07:51:30.804Z",
-      "evidence": "欢迎来到淘宝Taobao/天猫Tmall 轻奢全球高端酒店，选购【促销】丽江金茂璞修...，好评率100%，3用户购后写下真实评论。快来查看更多买家秀和测评，让你放心淘到宝！",
-      "evidenceLevel": "平台公开购后评价；无法独立查验买家订单/支付凭证",
+      "review": "该用户未及时主动评价，系统默认好评。",
+      "risk": "不能证明真实入住；卖家资质、目标日期、双床、儿童、退款与实名履约未核。",
+      "checkedAt": "2026-10-07T23:06:28.654Z",
+      "evidence": "同商品公开评价仅见系统默认好评。",
+      "evidenceLevel": "平台公开默认评价；不构成交易和履约证明",
       "eligible": false,
       "transactionVerified": false,
       "substantiveReviewVerified": false,
@@ -4850,18 +5414,18 @@
       "key": "accor-dali",
       "seller": "雅高酒店集团旗舰店（页面店名）",
       "url": "https://www.taobao.com/list/item/663022727238.htm",
-      "scope": "大理铂尔曼湖景双床商品；官方旗舰店对照来源",
-      "status": "公开购后评价可见 · 非代理",
-      "count": "页面元数据：43条购后评论",
+      "scope": "大理铂尔曼商品；官方对照",
+      "status": "实质购后评价可见 · 官方对照，非代理",
+      "count": "保留历史43条计数",
       "reviewDate": "2026-07-10 15:03",
-      "review": "原本预订的是豪华湖景房，还被贴心升级到了行政楼层…房间正对洱海，视野开阔…下次来大理还会考虑再次入住。",
-      "risk": "为官方旗舰店对照，不冒充代理成交；2027指定日期及两间总价待核",
-      "checkedAt": "2026-10-06T07:51:30.805Z",
-      "evidence": "欢迎来到淘宝Taobao/天猫Tmall 雅高酒店集团旗舰店，选购大理俊发铂尔曼酒店豪...，43用户购后写下真实评论，其中11人说它便利交通，9人说它早餐种类丰富，5人说它设施齐全，8人说它环境优美，13人说它整体非常满意，22人说它服务很好，4人说它房间很大，3人说它体验感一般。快来查看更多买家秀和测评，让你放心淘到宝！",
-      "evidenceLevel": "平台公开购后评价；无法独立查验买家订单/支付凭证",
+      "review": "买家描述豪华湖景房升级行政楼层、房间正对洱海及服务体验。",
+      "risk": "不能冒充代理成交；2027日期、两间双床、儿童、税费和退款未核。",
+      "checkedAt": "2026-10-07T23:06:28.654Z",
+      "evidence": "同商品公开实质入住评价可见，但无公开支付和目标日期履约资料。",
+      "evidenceLevel": "平台公开同商品购后评价；未独立验证订单与支付",
       "eligible": false,
       "transactionVerified": false,
-      "substantiveReviewVerified": false,
+      "substantiveReviewVerified": true,
       "fulfillmentVerified": false
     }
   ],
@@ -5005,12 +5569,12 @@
       "mediaCheckedAt": "2026-10-06T07:19:11.702Z",
       "photos": [
         {
-          "url": "/photos/km-greenlake/0.webp",
+          "url": "./photos/km-greenlake/0.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/0206o120009d3t3rdC309_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 1"
         },
         {
-          "url": "/photos/km-greenlake/1.webp",
+          "url": "./photos/km-greenlake/1.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/0220o12000apxvzi41397_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 2"
         }
@@ -5157,12 +5721,12 @@
       "mediaCheckedAt": "2026-10-06T07:20:16.416Z",
       "photos": [
         {
-          "url": "/photos/dali-songyun/0.webp",
+          "url": "./photos/dali-songyun/0.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/1mc1u12000jae29ceAC7A_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 1"
         },
         {
-          "url": "/photos/dali-songyun/1.webp",
+          "url": "./photos/dali-songyun/1.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/0585m12000sode46qE626_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 2"
         }
@@ -5309,12 +5873,12 @@
       "mediaCheckedAt": "2026-10-06T07:20:16.416Z",
       "photos": [
         {
-          "url": "/photos/dali-songyun/0.webp",
+          "url": "./photos/dali-songyun/0.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/1mc1u12000jae29ceAC7A_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 1"
         },
         {
-          "url": "/photos/dali-songyun/1.webp",
+          "url": "./photos/dali-songyun/1.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/0585m12000sode46qE626_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 2"
         }
@@ -5461,12 +6025,12 @@
       "mediaCheckedAt": "2026-10-06T07:20:16.423Z",
       "photos": [
         {
-          "url": "/photos/dali-yuewan/0.webp",
+          "url": "./photos/dali-yuewan/0.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/0202s120009uoytkjA051_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 1"
         },
         {
-          "url": "/photos/dali-yuewan/1.webp",
+          "url": "./photos/dali-yuewan/1.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/0206p12000a9arsyg3444_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 2"
         }
@@ -5613,12 +6177,12 @@
       "mediaCheckedAt": "2026-10-06T07:20:16.423Z",
       "photos": [
         {
-          "url": "/photos/dali-yuewan/0.webp",
+          "url": "./photos/dali-yuewan/0.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/0202s120009uoytkjA051_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 1"
         },
         {
-          "url": "/photos/dali-yuewan/1.webp",
+          "url": "./photos/dali-yuewan/1.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/0206p12000a9arsyg3444_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 2"
         }
@@ -5765,12 +6329,12 @@
       "mediaCheckedAt": "2026-10-06T07:20:16.430Z",
       "photos": [
         {
-          "url": "/photos/dali-arcadia/0.webp",
+          "url": "./photos/dali-arcadia/0.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/1mc3812000an1eu1oECB9_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 1"
         },
         {
-          "url": "/photos/dali-arcadia/1.webp",
+          "url": "./photos/dali-arcadia/1.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/1mc0x12000sr6m5b444DE_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 2"
         }
@@ -5917,12 +6481,12 @@
       "mediaCheckedAt": "2026-10-06T07:20:16.430Z",
       "photos": [
         {
-          "url": "/photos/dali-arcadia/0.webp",
+          "url": "./photos/dali-arcadia/0.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/1mc3812000an1eu1oECB9_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 1"
         },
         {
-          "url": "/photos/dali-arcadia/1.webp",
+          "url": "./photos/dali-arcadia/1.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/1mc0x12000sr6m5b444DE_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 2"
         }
@@ -6069,12 +6633,12 @@
       "mediaCheckedAt": "2026-10-06T07:20:16.437Z",
       "photos": [
         {
-          "url": "/photos/dali-manor/0.webp",
+          "url": "./photos/dali-manor/0.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/1mc0y12000ro48f0j8DE6_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 1"
         },
         {
-          "url": "/photos/dali-manor/1.webp",
+          "url": "./photos/dali-manor/1.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/1mc7012000e68kox60D9E_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 2"
         }
@@ -6221,12 +6785,12 @@
       "mediaCheckedAt": "2026-10-06T07:20:16.437Z",
       "photos": [
         {
-          "url": "/photos/dali-manor/0.webp",
+          "url": "./photos/dali-manor/0.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/1mc0y12000ro48f0j8DE6_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 1"
         },
         {
-          "url": "/photos/dali-manor/1.webp",
+          "url": "./photos/dali-manor/1.webp",
           "originalUrl": "https://dimg04.c-ctrip.com/images/1mc7012000e68kox60D9E_W_1280_853_R5_Q70.jpg_.webp?_fr=wc",
           "caption": "酒店展示照片 2"
         }
