@@ -4007,7 +4007,7 @@
     }
   ],
   "scheduleStatus": "未设置",
-  "scheduleText": "已启用 · 每天北京时间 07:00 检查三城18家酒店与往返机票",
+  "scheduleText": "已启用 · 每天北京时间07:00检查；已恢复任务，尚未完成恢复后的价格检查。GitHub Pages每轮检查后同步，成功与否另行核验。",
   "baseline": {
     "title": "云南5天4晚家庭行程",
     "travelers": {
@@ -4372,8 +4372,8 @@
     "childHeightCm": 150
   },
   "concierge": {
-    "day": "2026-10-06",
-    "generatedAt": "2026-10-06T15:07:20.402Z",
+    "day": "2026-10-07",
+    "generatedAt": "2026-10-07T08:29:51.595Z",
     "plans": [
       {
         "name": "稳健省心",
